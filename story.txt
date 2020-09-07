@@ -3,3 +3,5 @@ Tämä on aika mielenkiintoista. Mietin kuinka tätä voisin hyödyntää
 eri työn aspekteissa. Mitenköhän paljon tässä pitäisi olla tekstiä.
 
 Olisiko tämä muutoksen helpompi siirtyä?
+
+Ei ole ainkaan kauhean hankalaa.
