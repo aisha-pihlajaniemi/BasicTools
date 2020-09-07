@@ -1,0 +1,9 @@
+eggs
+milk
+cucumber
+sushi
+ginger
+bread
+tomatoes
+potatoes
+medicine
