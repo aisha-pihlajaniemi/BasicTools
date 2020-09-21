@@ -2,3 +2,4 @@ Greetings from my computer and from GitHub
 Lisätään tänne vähän sisältöä ja enemmän
 Kyllä tämä ainakin verkkoon siirtyi, osaanko viedä takaisin?
 Tänne myös lisää.
+Kokeillaan merge conflitiä kummastakin suunnasta
